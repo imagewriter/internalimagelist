@@ -7,7 +7,7 @@
         "bin-md5sum": "5d3f4932ad99700ba869af81b6a77619",
         "sdcard-md5sum": "44f2916d709b3a541e0968807121bd5c",
         "url": "http://yb2.am.freescale.net/build-output/Linux_IMX_Rocko_MX8/163/fsl-imx-xwayland/fsl-image-qt5-validation-imx-imx8qxpmek-20180503010121.rootfs.sdcard.bz2"
-    }
+    },
 	{
 	"id": 1,	
 	"imagename": "Linux Rocko Validation xWayland - fsl-image-validation",
