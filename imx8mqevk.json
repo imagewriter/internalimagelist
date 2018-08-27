@@ -1,0 +1,21 @@
+{"images":[
+    {
+	"id": 0,	
+	"imagename": "Linux Rocko QT5 Validation xWayland - fsl-image-qt5-validation",
+        "filename": "fsl-image-qt5-validation-imx-imx8mqevk-20180503021650.rootfs.sdcard.bz2",
+	"bin-size": 885454119,
+        "bin-md5sum": "f6239f711738003a3873fb0cea738a33",
+        "sdcard-md5sum": "9e65f70ef15bb9e659180495487ec1b2",
+        "url": "http://yb2.am.freescale.net/build-output/Linux_IMX_Rocko_MX8/163/fsl-imx-xwayland/fsl-image-qt5-validation-imx-imx8mqevk-20180503021650.rootfs.sdcard.bz2"
+    },
+	{
+	"id": 1,	
+	"imagename": "Linux Rocko Validation xWayland - fsl-image-validation",
+        "filename": "fsl-image-validation-imx-imx8mqevk-20180503021650.rootfs.sdcard.bz2",
+	"bin-size": 597744305,
+        "bin-md5sum": "417f8e7c9c2fee67c92c4d0d1d0a3c4d",
+        "sdcard-md5sum": "89d0066c67ce330b4b98f7ca85f534fc",
+        "url": "http://yb2.am.freescale.net/build-output/Linux_IMX_Rocko_MX8/163/fsl-imx-xwayland/fsl-image-validation-imx-imx8mqevk-20180503021650.rootfs.sdcard.bz2"
+    }
+]}
+
