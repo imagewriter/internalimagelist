@@ -1,20 +1,30 @@
 {"images":[
     {
-	"id": 0,	
-	"imagename": "Linux Rocko QT5 Validation xWayland - fsl-image-qt5-validation",
+		"id": 0,	
+		"imagename": "Linux Rocko QT5 Validation xWayland - fsl-image-qt5-validation",
         "filename": "fsl-image-qt5-validation-imx-imx8qxpmek-20180503010121.rootfs.sdcard.bz2",
-	"bin-size": 892279764,
+		"bin-size": 892279764,
         "bin-md5sum": "5d3f4932ad99700ba869af81b6a77619",
         "sdcard-md5sum": "44f2916d709b3a541e0968807121bd5c",
         "url": "http://yb2.am.freescale.net/build-output/Linux_IMX_Rocko_MX8/163/fsl-imx-xwayland/fsl-image-qt5-validation-imx-imx8qxpmek-20180503010121.rootfs.sdcard.bz2"
     },
 	{
-	"id": 1,	
-	"imagename": "Linux Rocko Validation xWayland - fsl-image-validation",
+		"id": 1,	
+		"imagename": "Linux Rocko Validation xWayland - fsl-image-validation",
         "filename": "fsl-image-validation-imx-imx8qxpmek-20180503010121.rootfs.sdcard.bz2",
-	"bin-size": 604232665,
+		"bin-size": 604232665,
         "bin-md5sum": "675588806ad2cd525a2178380b5035d0",
         "sdcard-md5sum": "b4c800d0791ab7fc6f716615de3da5ea",
         "url": "http://yb2.am.freescale.net/build-output/Linux_IMX_Rocko_MX8/163/fsl-imx-xwayland/fsl-image-validation-imx-imx8qxpmek-20180503010121.rootfs.sdcard.bz2"
+    },
+	{
+		"id": 2,	
+		"imagename": "Yocto L4.9.88_2.2.0 Beta2 fsl-image-validation-imx-xwayland-imx8qxpmek",
+        "filename": "fsl-image-validation-imx-xwayland-imx8qxpmek-20180831164612.sdcard.bz2",
+		"bin-size": 606729814,
+        "bin-md5sum": "546ab23b98e518e2db25630730defc02",
+        "sdcard-md5sum": "61584d02ca982cfcf6a642453719988c",
+        "url": "http://se-skyline.am.freescale.net/image_writer_desktop/images/fsl-image-validation-imx-xwayland-imx8qxpmek-20180831164612.sdcard.bz2",
+		"document-url": "https://www.nxp.com/docs/en/supporting-information/imx-yocto-L4.9.88_2.2.0-8qxp_beta2.tar.gz"
     }
 ]}
