@@ -1,9 +1,15 @@
-{"images":[
+{"boardinfo":[
     {
-	"id": 0,	
-	"imagename": "Linux 4.1.15-2.1.0 GA RC4 Framebuffer",
+		"boardname": "i.MX6UL EVK REV A",
+		"boardid": "imx6ulevkpartnumber"
+    }
+],
+"images":[
+    {
+		"id": 0,	
+		"imagename": "Linux 4.1.15-2.1.0 GA RC4 Framebuffer",
         "filename": "fsl-image-validation-imx-imx6ul7d-20170510092736.rootfs.sdcard.bz2",
-	"bin-size": 178085772,
+		"bin-size": 178085772,
         "bin-md5sum": "aed9b155cf37f92cb803b2f0f484f6b6",
         "sdcard-md5sum": "b957c0f4326cef973d3797ae4bb1ec7a",
         "url": "http://yb2.am.freescale.net/build-output/Linux_IMX_4.1.X-2.1.0/4.1.15-2.1.0_6sll_ga_rc4/fsl-imx-fb/fsl-image-validation-imx-imx6ul7d-20170510092736.rootfs.sdcard.bz2"
