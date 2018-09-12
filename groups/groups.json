@@ -2,31 +2,31 @@
     {
 		"id": 0,	
 		"groupname": "Linux",
-        "groupimage": "linux_ico.png",
+        "groupimage": "linux_ico.png"
     },
 	{
 		"id": 1,	
 		"groupname": "Android",
-        "groupimage": "android_ico.png",
+        "groupimage": "android_ico.png"
     },
 	{
 		"id": 2,	
 		"groupname": "QNX",
-        "groupimage": "qnx_ico.png",
+        "groupimage": "qnx_ico.png"
     },
 	{
 		"id": 3,	
 		"groupname": "Ubuntu",
-        "groupimage": "ubuntu_ico.png",
+        "groupimage": "ubuntu_ico.png"
     },
 	{
 		"id": 4,	
 		"groupname": "Debian",
-        "groupimage": "debian_ico.png",
+        "groupimage": "debian_ico.png"
     },
 	{
 		"id": 5,	
 		"groupname": "Others",
-        "groupimage": "others_ico.png",
-    },
+        "groupimage": "others_ico.png"
+    }
 ]}
