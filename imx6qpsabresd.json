@@ -6,12 +6,12 @@
 ],
 "images":[
     {
-      "id": 0,
+      "id": "0",
       "imagename": "Linux L4.14.78_1.0.0_GA - fsl-image-validation-imx",
       "group": "Linux",
       "icon": "linux_ico.png",
       "filename": "fsl-image-validation-imx-imx6qpdlsolox-20190118153527.sdcard.bz2",
-      "bin-size": 401508815,
+      "bin-size": "401508815",
       "bin-md5sum": "dca20508e06812380e36a24e9ecf4047",
       "sdcard-md5sum": "82ae5ceb8163da18b0ba28174d2617a2",
       "url": "se-skyline.am.freescale.net/image_writer_desktop/images/imx6/fsl-image-validation-imx-imx6qpdlsolox-20190118153527.sdcard.bz2",
