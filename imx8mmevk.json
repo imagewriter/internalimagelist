@@ -1,0 +1,23 @@
+{"boardinfo":[
+    {
+		"boardname": "i.MX8MMini EVK REV A",
+		"boardid": "IMX8MM-EVK-REV-A"
+    }
+],
+"images":[
+    {
+      "id": "0",
+      "imagename": "Linux L4.14.78_1.0.0_GA - fsl-image-validation-imx",
+      "group": "Linux",
+      "icon": "linux_ico.png",
+      "filename": "fsl-image-validation-imx-imx8mmevk-20190121161958.sdcard.bz2",
+      "bin-size": "353740301",
+      "bin-md5sum": "83840e78d4dd9a7ba2c06db84343754e",
+      "sdcard-md5sum": "47171cdf8d2ae285e22e03b97714e808",
+      "url": "se-skyline.am.freescale.net/image_writer_desktop/images/imx8mm/fsl-image-validation-imx-imx8mmevk-20190121161958.sdcard.bz2",
+      "documenturl": "https://www.nxp.com/webapp/Download?colCode=L4.14.78_1.0.0_LINUX_DOCS&appType=license&location=null",
+      "supportedby": "NXP Semiconductor."
+    }
+
+]
+}
