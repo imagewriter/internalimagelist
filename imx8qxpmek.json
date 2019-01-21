@@ -1,20 +1,23 @@
-{"images":[
+{"boardinfo":[
     {
-	"id": 0,	
-	"imagename": "Linux Rocko QT5 Validation xWayland - fsl-image-qt5-validation",
-        "filename": "fsl-image-qt5-validation-imx-imx8qxpmek-20180503010121.rootfs.sdcard.bz2",
-	"bin-size": 892279764,
-        "bin-md5sum": "5d3f4932ad99700ba869af81b6a77619",
-        "sdcard-md5sum": "44f2916d709b3a541e0968807121bd5c",
-        "url": "http://yb2.am.freescale.net/build-output/Linux_IMX_Rocko_MX8/163/fsl-imx-xwayland/fsl-image-qt5-validation-imx-imx8qxpmek-20180503010121.rootfs.sdcard.bz2"
-    },
-	{
-	"id": 1,	
-	"imagename": "Linux Rocko Validation xWayland - fsl-image-validation",
-        "filename": "fsl-image-validation-imx-imx8qxpmek-20180503010121.rootfs.sdcard.bz2",
-	"bin-size": 604232665,
-        "bin-md5sum": "675588806ad2cd525a2178380b5035d0",
-        "sdcard-md5sum": "b4c800d0791ab7fc6f716615de3da5ea",
-        "url": "http://yb2.am.freescale.net/build-output/Linux_IMX_Rocko_MX8/163/fsl-imx-xwayland/fsl-image-validation-imx-imx8qxpmek-20180503010121.rootfs.sdcard.bz2"
+      "boardname": "i.MX8QXP MEK REV A",
+  		"boardid": "IMX8QXP-MEK-REV-A"
     }
-]}
+],
+"images":[
+    {
+      "id": "0",
+      "imagename": "Linux L4.14.78_1.0.0_GA - fsl-image-validation-imx",
+      "group": "Linux",
+      "icon": "linux_ico.png",
+      "filename": "fsl-image-validation-imx-imx8qxpmek-20190121174009.sdcard.bz2",
+      "bin-size": "514059579",
+      "bin-md5sum": "032eb75f297c3644ea5f0f10b1de4c96",
+      "sdcard-md5sum": "2fcadef971bc0a6436aa515425411ea6",
+      "url": "se-skyline.am.freescale.net/image_writer_desktop/images/imx8qxp/fsl-image-validation-imx-imx8qxpmek-20190121174009.sdcard.bz2",
+      "documenturl": "https://www.nxp.com/webapp/Download?colCode=L4.14.78_1.0.0_LINUX_DOCS&appType=license&location=null",
+      "supportedby": "NXP Semiconductor."
+    }
+
+]
+}
