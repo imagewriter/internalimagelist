@@ -17,6 +17,19 @@
       "url": "se-skyline.am.freescale.net/image_writer_desktop/images/imx8qxp/fsl-image-validation-imx-imx8qxpmek-20190121174009.sdcard.bz2",
       "documenturl": "https://www.nxp.com/webapp/Download?colCode=L4.14.78_1.0.0_LINUX_DOCS&appType=license&location=null",
       "supportedby": "NXP Semiconductor."
+    },
+    {
+      "id": "1",
+      "imagename": "Android O8.1.0_2.0.0 Beta",
+      "group": "Android",
+      "icon": "android_ico.png",
+      "filename": "android_o8.1.0_2.0.0_beta_8qxpmek.sdcard.bz2",
+      "bin-size": "1249589051",
+      "bin-md5sum": "d4bee16acf00f6c1854c618209427110",
+      "sdcard-md5sum": "3d2b2c3987eea1243ca9d8b0a089e63e",
+      "url": "se-skyline.am.freescale.net/image_writer_desktop/images/android/imx8qxp/android_o8.1.0_2.0.0_beta_8qxpmek.sdcard.bz2",
+      "documenturl": "https://www.nxp.com/docs/en/supporting-information/android_o8.1.0_2.0.0-beta_docs.zip",
+      "supportedby": "NXP Semiconductor."
     }
 
 ]
