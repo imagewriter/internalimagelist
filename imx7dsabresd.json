@@ -1,0 +1,23 @@
+{"boardinfo":[
+    {
+		"boardname": "i.MX7D SabreSD",
+		"boardid": "IMX7D-SABRESD"
+    }
+],
+"images":[
+    {
+      "id": "0",
+      "imagename": "Image Writer Embedded 1.0",
+      "group": "Linux",
+      "icon": "linux_ico.png",
+      "filename": "iwe-imx7dsabresd-v1.0.sdcard.bz2",
+      "bin-size": "82465166",
+      "bin-md5sum": "7f073ac3725ce33378a3d462f1700530",
+      "sdcard-md5sum": "d2ddd29f7517ce58bb0cdeb603daf920",
+      "url": "se-skyline.am.freescale.net/image_writer_embedded/releases/v1.0/iwe-imx7dsabresd-v1.0.sdcard.bz2",
+      "documenturl": "http://se-skyline.am.freescale.net/image_writer_embedded/releases/v1.0/README",
+      "supportedby": "NXP Semiconductor."
+    }
+
+]
+}
