@@ -1,0 +1,23 @@
+{"boardinfo":[
+    {
+		"boardname": "i.MX7ULP EVK",
+		"boardid": "IMX7ULP-EVK"
+    }
+],
+"images":[
+    {
+      "id": "0",
+      "imagename": "Linux L4.14.98_2.0.0_GA - fsl-image-validation-imx",
+      "group": "Linux",
+      "icon": "linux_ico.png",
+      "filename": "fsl-image-validation-imx-imx7ulpevk_4.14.98_2.0.0_ga.sdcard.bz2",
+      "bin-size": "296803695",
+      "bin-md5sum": "903680536f1103e85d059b82d104d0b9",
+      "sdcard-md5sum": "f5c690a603fa1ad275a46060cba93ebb",
+      "url": "se-skyline.am.freescale.net/image_writer_desktop/images/imx7/fsl-image-validation-imx-imx7ulpevk_4.14.98_2.0.0_ga.sdcard.bz2",
+      "documenturl": "https://www.nxp.com/webapp/Download?colCode=imx-yocto-L4.14.98_2.0.0_ga",
+      "supportedby": "NXP Semiconductor."
+    }
+
+]
+}
