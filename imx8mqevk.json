@@ -7,6 +7,19 @@
 "images":[
     {
       "id": "0",
+      "imagename": "Linux L4.14.98_2.0.0_GA - fsl-image-validation-imx",
+      "group": "Linux",
+      "icon": "linux_ico.png",
+      "filename": "fsl-image-validation-imx-imx8mqevk_4.14.98_2.0.0_ga.sdcard.bz2",
+      "bin-size": "521089209",
+      "bin-md5sum": "3010ac47c21ba518d7af32d69fbb8b9c",
+      "sdcard-md5sum": "2a3faaa772b55139db8e749c90a5807c",
+      "url": "se-skyline.am.freescale.net/image_writer_desktop/images/imx8m/fsl-image-validation-imx-imx8mqevk_4.14.98_2.0.0_ga.sdcard.bz2",
+      "documenturl": "https://www.nxp.com/webapp/Download?colCode=imx-yocto-L4.14.98_2.0.0_ga",
+      "supportedby": "NXP Semiconductor."
+    },
+    {
+      "id": "1",
       "imagename": "Virtualization L_VIRT_4.14.78_1.0.0_4.11_0.9.1_beta - Jailhouse Demo",
       "group": "Linux",
       "icon": "linux_ico.png",
@@ -19,7 +32,7 @@
       "supportedby": "NXP Semiconductor."
     },
     {
-      "id": "1",
+      "id": "2",
       "imagename": "Image Writer Embedded 1.0",
       "group": "Linux",
       "icon": "linux_ico.png",
@@ -32,7 +45,7 @@
       "supportedby": "NXP Semiconductor."
     },
     {
-      "id": "2",
+      "id": "3",
       "imagename": "Linux L4.14.78_1.0.0_GA - fsl-image-validation-imx",
       "group": "Linux",
       "icon": "linux_ico.png",
@@ -45,7 +58,7 @@
       "supportedby": "NXP Semiconductor."
     },
     {
-      "id": "3",
+      "id": "4",
       "imagename": "Android P9.0.0_1.0.0 GA",
       "group": "Android",
       "icon": "android_ico.png",
